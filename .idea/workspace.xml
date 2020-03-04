@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95d9d62b-cb2e-4b40-9ec6-9dd6b41c861e" name="Default Changelist" comment="" />
+    <list default="true" id="95d9d62b-cb2e-4b40-9ec6-9dd6b41c861e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/hillclimb/validators.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/hillclimb/validators.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XlGmlxk5FP1o5fFcWQDHtpBhbC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -16,6 +24,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
@@ -26,7 +35,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go Build.go build validators.go">
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="HC" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -35,8 +44,17 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build validators.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="HC" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/cmd/hillclimb/validators.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build validators.go" />
         <item itemvalue="Go Build.go build main.go" />
       </list>
     </recent_temporary>
@@ -49,6 +67,14 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="556" y="98" key="#GOROOT/0.0.1368.872@0.0.1368.872" timestamp="1581613714902" />
+    <state x="395" y="79" key="#go_build_main.go" timestamp="1581627746945">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="395" y="79" key="#go_build_main.go/0.0.1368.872@0.0.1368.872" timestamp="1581627746945" />
+    <state x="395" y="71" key="#go_build_validators.go" timestamp="1581627773289">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="395" y="71" key="#go_build_validators.go/0.0.1368.872@0.0.1368.872" timestamp="1581627773289" />
     <state width="1326" height="280" key="GridCell.Tab.0.bottom" timestamp="1581627106677">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
